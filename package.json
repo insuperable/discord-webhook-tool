@@ -1,0 +1,21 @@
+{
+  "name": "webhook-tool",
+  "version": "1.0.0",
+  "description": "https://github.com/insuperable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insuperable"
+  },
+  "author": "const",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.8.0",
+    "gradient-string": "^2.0.0",
+    "node-fetch": "^2.6.6",
+    "readline": "^1.3.0"
+  }
+}
