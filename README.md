@@ -19,5 +19,5 @@ npm install
 node index
 ```
 
-### Preview
+## Preview
 ![image](https://i.imgur.com/0dSc2bM.png)
