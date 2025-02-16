@@ -8,15 +8,15 @@
 - 📋 **Get Webhook Info**: Retrieve detailed information about a webhook.
 
 ### Usage
-1.
+
 ```bash
 git clone https://github.com/insuperable/discord-webhook-tool.git
 ```
-2.
+
 ```bash
 npm install
 ```
-3.
+
 ```bash
 node index
 ```
