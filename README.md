@@ -1,5 +1,3 @@
-# Discord Webhook Tool
-
 ## Features
 
 - 🧨 **Webhook Spammer**: Send multiple messages to a webhook in a short period.
