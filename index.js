@@ -60,7 +60,7 @@ const GetWebhookInformation = async(Webhook) => {
     });
 
     const data = await response.json();
-    console.log(gradient(['#ff91da', 'white'])(`[~] Guild Name: ${data.name}\n[~] Guild ID: ${data.guild_id}\n[~] Channel ID: ${data.channel_id}`));
+    console.log(gradient(['#ff91da', 'white'])(`[~] Webhook Name: ${data.name}\n[~] Guild ID: ${data.guild_id}\n[~] Channel ID: ${data.channel_id}`));
 }
 
 const RenameWebhook = async(Webhook, name) => {
